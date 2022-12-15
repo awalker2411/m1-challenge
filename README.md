@@ -22,7 +22,7 @@ HTML CSS Git Challenge: Code Refactor
 
 
 *My Application* 
-This project displays the landing page for Horiseon Social Solution Services.
+<br> This project displays the landing page for Horiseon Social Solution Services.
 <br> I was able to change the element names for things in the HTML sheet to make it more accessible and easier to understand
 <br> I was able to correclty link the CSS Style Sheet to my HTML sheet so that the correct styles were added to the elements within my webpage
 <br> Everything within the HTML sheet and CSS style sheet is described in the comments above each section to relay the intentions of each section to whomever may read this code
