@@ -28,6 +28,6 @@ This project displays the landing page for Horiseon Social Solution Services.
 <br>Everything within the HTML sheet and CSS style sheet is described in the comments above each section to relay the intentions of each section to whomever may read this code
 
 Live site URL: https://awalker2411.github.io/m1-challenge/
-Github repository URL: https://github.com/awalker2411/m1-challenge
+<br>Github repository URL: https://github.com/awalker2411/m1-challenge
 
 Thank you! 
